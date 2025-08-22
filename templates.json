@@ -1,1 +1,188 @@
-
+{
+  "famangiana-zava-manjo": {
+    "title": "Famangiana zava manjo",
+    "variables": {
+      "[Anarany]": "Nom de la personne"
+    },
+    "steps": [
+      {
+        "id": "1",
+        "title": "Fampidirana – Mpitsidika",
+        "content": "« Akory aby tompoko ô ! Mamangy fahoriana tompoko izahay.\nMiala tsiny amin'ny fidirana tampoka, fa araka ny fomba fiteny hoe : \"Tsy misy lalana tsy misy tompo, ka ny mandalo dia mangataka làlana.\"\nIzay no antony hangatahanay làlana sy rariny mba hanonona teny kely eto anoloanareo. »",
+        "editableFields": [
+          {"text": "Akory aby tompoko ô ! Mamangy fahoriana tompoko izahay"},
+          {"text": "Tsy misy lalana tsy misy tompo, ka ny mandalo dia mangataka làlana"}
+        ]
+      },
+      {
+        "id": "1R",
+        "title": "Valiny – Mpampiantrano",
+        "content": "« Tonga soa ianareo, ekena ny làlana, ekena ny rariny.\nAraka ny fomba fiteny hoe : \"Ny vahiny tsy an-kavana, fa ny teny ifampizarana no maha-havana.\"\nRaisina am-po madio sy amim-pitiavana ny fidiranareo. »",
+        "editableFields": [
+          {"text": "Tonga soa ianareo, ekena ny làlana, ekena ny rariny"},
+          {"text": "Ny vahiny tsy an-kavana, fa ny teny ifampizarana no maha-havana"}
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Fanondroana tena – Mpitsidika",
+        "content": "« Izahay dia solontenan'ny fianakavian'i …, misy havana, namana, mpiara-miasa ary mpiray vodirindrina.\nHoy ny fahiny hoe : \"Tsy misy hazo tokana ala, fa raha ala dia misy maro.\"\nNoho izany dia tonga miaraka toy izao izahay, satria ny enta-mavesatra tsy zakaina tokana fa zaraintsika amin'ny havana sy ny sakaiza. »",
+        "editableFields": [
+          {"text": "Izahay dia solontenan'ny fianakavian'i …, misy havana, namana, mpiara-miasa ary mpiray vodirindrina"},
+          {"text": "Tsy misy hazo tokana ala, fa raha ala dia misy maro"}
+        ]
+      },
+      {
+        "id": "2R",
+        "title": "Valiny – Mpampiantrano",
+        "content": "« Noraisina ny fanazavan-tenanareo.\nAraka ny fomba fiteny hoe : \"Raha mitambatra ny hery, tsy misy mavesatra tsy zakaina.\"\nMisaotra amin'ny firaisankina sy ny hafanam-po. »",
+        "editableFields": [
+          {"text": "Noraisina ny fanazavan-tenanareo"},
+          {"text": "Raha mitambatra ny hery, tsy misy mavesatra tsy zakaina"}
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Fanambarana ny anton-diany sy teny ho an'ilay nodimandry – Mpitsidika",
+        "content": "« Tompoko, alahelo no entinay androany, ranomaso no ifampizaranay.\nAraka ny fomba filaza hoe : \"Ny alahelo zaraina, mahamaivana.\"\nTonga izahay hizara aminareo izany, mba tsy ho entina irery fa hiombonantsika rehetra.\n\nAry tsy takona afenina ny anaran'ilay nodimandry, [Anarany].\nHo anay, izy dia havana malala, mpiara-miasa mendrika, namana tsy hay hadinoina.\nAraka ny fomba fiteny hoe : \"Ny tsara maty mbola velona ao am-po.\"\nEnga anie ny fahatsiarovana azy ho lova tsara sy ho ohatra entina. »",
+        "editableFields": [
+          {"text": "Tompoko, alahelo no entinay androany, ranomaso no ifampizaranay"},
+          {"text": "Ny alahelo zaraina, mahamaivana"},
+          {"text": "Ho anay, izy dia havana malala, mpiara-miasa mendrika, namana tsy hay hadinoina"},
+          {"text": "Ny tsara maty mbola velona ao am-po"}
+        ]
+      },
+      {
+        "id": "3R",
+        "title": "Valiny – Mpampiantrano",
+        "content": "« Tsapanay ny fitiavana sy ny fahatsiarovana nentinareo.\nAraka ny fomba fiteny hoe : \"Ny lova tsara indrindra dia ny laza soa.\"\nMisaotra indrindra tamin'ny fijoroanareo sy ny teny mamy. »",
+        "editableFields": [
+          {"text": "Tsapanay ny fitiavana sy ny fahatsiarovana nentinareo"},
+          {"text": "Ny lova tsara indrindra dia ny laza soa"}
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Teny fampaherezana – Mpitsidika",
+        "content": "« Aza misosoka alahelo tompoko.\nHoy ny Tenin'ny Tompo : \"Sambatra izay mitomany, fa hampiononina izy\" (Matio 5:4).\nAraka ny fomba fiteny hoe : \"Tsy very ny maty fa mialoha lalana.\"\nNa dia mafy aza ny fisarahana, dia matoky isika fa ao amin'Andriamanitra ny fanahiny, ary ny fahatsiarovana azy mitoetra mandrakizay. »",
+        "editableFields": [
+          {"text": "Aza misosoka alahelo tompoko"},
+          {"text": "Sambatra izay mitomany, fa hampiononina izy"},
+          {"text": "Tsy very ny maty fa mialoha lalana"}
+        ]
+      },
+      {
+        "id": "4R",
+        "title": "Valiny – Mpampiantrano", 
+        "content": "« Mampahery ny teninareo.\nAraka ny fomba fiteny hoe : \"Ny ranomaso maina, fa ny fahatsiarovana mitoetra.\"\nHotehirizinay ao am-po ny soa rehetra navelan'ny havanay. »",
+        "editableFields": [
+          {"text": "Mampahery ny teninareo"},
+          {"text": "Ny ranomaso maina, fa ny fahatsiarovana mitoetra"}
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Sorona – Mpitsidika",
+        "content": "« Ary izao, tompoko, dia mitondra sorona izahay.\nKely anie ity, tsy mitovy amin'ny halalina sy haben'ny alahelo. Tsy misy lanja, fa ny fo no manampy azy.\nAraka ny fomba fiteny hoe : \"Kely tsy mba lefy, ny fo no lehibe.\"\nIo no porofon'ny fihavanana sy fiaraha-miory entinay, satria ny zavatra omen'ny tanana tsy ampy raha tsy misy ny fo manampy azy. »",
+        "editableFields": [
+          {"text": "Ary izao, tompoko, dia mitondra sorona izahay"},
+          {"text": "Kely tsy mba lefy, ny fo no lehibe"}
+        ]
+      },
+      {
+        "id": "5R",
+        "title": "Valiny – Mpampiantrano",
+        "content": "« Raisina am-panetren-tena sy am-pankasitrahana.\nAraka ny fomba fiteny hoe : \"Ny soa fianjary tsy mifafa, ny tsara natao tsy mba ritra.\"\nMisaotra tamin'ny fanomezana sy ny fo nanampy azy. »",
+        "editableFields": [
+          {"text": "Raisina am-panetren-tena sy am-pankasitrahana"},
+          {"text": "Ny soa fianjary tsy mifafa, ny tsara natao tsy mba ritra"}
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Fanoloran-tena, fijanonana sy fangatahana làlana – Mpitsidika",
+        "content": "« Tompoko, tsy hijanona ho teny ihany ny fiaraha-miory, fa misy aminay vonona hijanona hanampy amin'ny asa sy adidy rehetra.\nAraka ny fomba filaza hoe : \"Ny havana toy ny tadin-damba, raha iray misisika dia tsy vaky.\"\n\nKanefa misy ihany koa aminay tsy maintsy miverina noho ny andraikitra hafa.\nNoho izany dia manolotra izahay : hisy hijanona, fa mangataka làlana sy tso-drano kosa ho an'ireo hiverina.\nAraka ny fomba fiteny hoe : \"Ny lalana tsy andeha raha tsy misy fanome-dalana.\" »",
+        "editableFields": [
+          {"text": "Tompoko, tsy hijanona ho teny ihany ny fiaraha-miory, fa misy aminay vonona hijanona hanampy amin'ny asa sy adidy rehetra"},
+          {"text": "Ny havana toy ny tadin-damba, raha iray misisika dia tsy vaky"},
+          {"text": "Ny lalana tsy andeha raha tsy misy fanome-dalana"}
+        ]
+      },
+      {
+        "id": "6R",
+        "title": "Valiny – Mpampiantrano",
+        "content": "« Tsapanay ny fitiavanareo sy ny fanolorantenanareo.\nRaisina izay hijanona, ary omena làlana sy tso-drano izay tsy afaka hijanona.\nHoy ny fomba fiteny hoe : \"Izay tonga nanampy, hoentina am-bavaka; izay miala, homena soa sy fiadanana.\" »",
+        "editableFields": [
+          {"text": "Tsapanay ny fitiavanareo sy ny fanolorantenanareo"},
+          {"text": "Izay tonga nanampy, hoentina am-bavaka; izay miala, homena soa sy fiadanana"}
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Famaranana – Mpitsidika",
+        "content": "« Izay ihany no teny kely entinay.\nEnga anie ny Tompo hampahery sy hanome hery vaovao aminareo amin'izao andro mahamay izao.\nMisaotra indrindra tamin'ny fandraisana. »",
+        "editableFields": [
+          {"text": "Izay ihany no teny kely entinay"},
+          {"text": "Enga anie ny Tompo hampahery sy hanome hery vaovao aminareo amin'izao andro mahamay izao"}
+        ]
+      },
+      {
+        "id": "7R",
+        "title": "Famaranana – Mpampiantrano",
+        "content": "« Misaotra indrindra nanotrona sy nampahery.\nAraka ny fomba filaza hoe : \"Ny fihavanana no sakafo tsara indrindra.\"\nAndriamanitra anie hamaly fitia aminareo, hitahy izay hijanona, ary hiaro ny làlan'ireo miverina. »",
+        "editableFields": [
+          {"text": "Misaotra indrindra nanotrona sy nampahery"},
+          {"text": "Ny fihavanana no sakafo tsara indrindra"}
+        ]
+      }
+    ]
+  },
+  "fiterahana": {
+    "title": "Fiterahana",
+    "variables": {},
+    "steps": [
+      {
+        "id": "1",
+        "title": "Fampidirana",
+        "content": "Template pour fiterahana à compléter...",
+        "editableFields": []
+      }
+    ]
+  },
+  "didi-poatra": {
+    "title": "Didi poatra", 
+    "variables": {},
+    "steps": [
+      {
+        "id": "1",
+        "title": "Fampidirana",
+        "content": "Template pour didi poatra à compléter...",
+        "editableFields": []
+      }
+    ]
+  },
+  "fangatahana-vady": {
+    "title": "Fisehoana fangatahana vady",
+    "variables": {},
+    "steps": [
+      {
+        "id": "1", 
+        "title": "Fampidirana",
+        "content": "Template pour fangatahana vady à compléter...",
+        "editableFields": []
+      }
+    ]
+  },
+  "fiarahabana-taona": {
+    "title": "Fiarahabana tratrin'ny taona",
+    "variables": {},
+    "steps": [
+      {
+        "id": "1",
+        "title": "Fampidirana", 
+        "content": "Template pour fiarahabana taona à compléter...",
+        "editableFields": []
+      }
+    ]
+  }
+}
