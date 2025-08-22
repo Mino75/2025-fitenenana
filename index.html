@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="mg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitenenana</title>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#000000">
+</head>
+<body>
+    <div id="app">
+        <!-- Écran de sélection des cas -->
+        <div id="case-selection" class="screen active">
+            <header>
+                <h1>Fitenenana</h1>
+                <p>Safidio ny karazana fitenenana</p>
+            </header>
+            
+            <div class="case-list">
+                <button class="case-btn" data-case="fiterahana">
+                    <span class="case-number">1</span>
+                    <span class="case-title">Fiterahana</span>
+                </button>
+                
+                <button class="case-btn" data-case="didi-poatra">
+                    <span class="case-number">2</span>
+                    <span class="case-title">Didi poatra</span>
+                </button>
+                
+                <button class="case-btn" data-case="fangatahana-vady">
+                    <span class="case-number">3</span>
+                    <span class="case-title">Fisehoana fangatahana vady</span>
+                </button>
+                
+                <button class="case-btn" data-case="famangiana-zava-manjo">
+                    <span class="case-number">4</span>
+                    <span class="case-title">Famangiana zava manjo</span>
+                </button>
+                
+                <button class="case-btn" data-case="fiarahabana-taona">
+                    <span class="case-number">5</span>
+                    <span class="case-title">Fiarahabana tratrin'ny taona</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Écran d'édition des templates -->
+        <div id="template-editor" class="screen">
+            <header>
+                <button id="back-btn" class="back-btn">← Hiverina</button>
+                <h2 id="current-case-title"></h2>
+                <button id="preview-btn" class="preview-btn">Mijery</button>
+            </header>
+            
+            <div class="editor-container">
+                <div id="full-dialogue" class="dialogue-view">
+                    <!-- Toutes les étapes seront affichées ici -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Écran de prévisualisation -->
+        <div id="preview-screen" class="screen">
+            <header>
+                <button id="preview-back-btn" class="back-btn">← Hiverina</button>
+                <h2>Fijerena</h2>
+                <button id="export-btn" class="export-btn">Avoaka</button>
+            </header>
+            
+            <div class="preview-container">
+                <div id="preview-content"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chargement des fichiers séparés -->
+    <script src="styles.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
